@@ -10,7 +10,7 @@
   "preview": "vite preview",
       "eslint": "eslint src",
     "test": "vitest",
-    "install": "install"
+    "install": "npm install"
   },
   "dependencies": {
     "react": "^18.2.0",
