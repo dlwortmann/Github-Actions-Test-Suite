@@ -9,7 +9,8 @@
     "lint": "eslint src --ext js,tsx --report-unused-disable-directives --max-warnings 0",
   "preview": "vite preview",
       "eslint": "eslint src",
-    "test": "vitest"
+    "test": "vitest",
+    "install": "install"
   },
   "dependencies": {
     "react": "^18.2.0",
